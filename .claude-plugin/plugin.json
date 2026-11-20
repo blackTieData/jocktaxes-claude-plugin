@@ -1,0 +1,15 @@
+{
+  "name": "jocktaxes",
+  "displayName": "Jock Taxes",
+  "version": "1.0.0",
+  "description": "After-tax salary estimates for MLB, NBA, NFL and NHL players: jock tax by team and season, equivalent salaries across teams, and the take-home effect of a trade or signing.",
+  "author": {
+    "name": "Jock Tools LLC",
+    "email": "brandon@jocktaxes.com",
+    "url": "https://jocktaxes.com"
+  },
+  "homepage": "https://jocktaxes.com",
+  "repository": "https://github.com/blackTieData/jocktaxes-claude-plugin",
+  "license": "MIT",
+  "keywords": ["sports", "tax", "salary", "mlb", "nba", "nfl", "nhl", "jock-tax"]
+}
