@@ -9,7 +9,17 @@
     "url": "https://jocktaxes.com"
   },
   "homepage": "https://jocktaxes.com",
+  "privacyPolicyUrl": "https://jocktaxes.com/privacy/",
   "repository": "https://github.com/blackTieData/jocktaxes-claude-plugin",
   "license": "MIT",
-  "keywords": ["sports", "tax", "salary", "mlb", "nba", "nfl", "nhl", "jock-tax"]
+  "keywords": [
+    "sports",
+    "tax",
+    "salary",
+    "mlb",
+    "nba",
+    "nfl",
+    "nhl",
+    "jock-tax"
+  ]
 }
